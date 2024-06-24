@@ -4,5 +4,7 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/genetic-algorithm" vcs="Git" />
   </component>
 </project>
